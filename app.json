@@ -1,0 +1,61 @@
+{
+    "name": "Auto-filter-Rainbow-Clone",
+    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
+    "logo": "https://telegra.ph/file/cf0c945839fed74e13d9f.jpg",
+    "keywords": [
+        "Auto",
+        "Filter",
+        "Mongo DB"
+    ],
+    "website": "https://github.com/konay1122",
+    "repository": "https://github.com/konay1122/Auto-filter-Rainbow-Clone",
+    "success_url": "https://www.telegram.dog/allserieslinkchnel_rainbow",
+    "env": {
+        "APP_ID": {
+            "description": "Your APP ID From my.telegram.org",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "DB_URI": {
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "value": ""
+        },
+        "USER_SESSION": {
+            "description": "A Pyrogram User Session String. From https://repl.it/@prgofficial/String-Gen",
+            "value": ""
+        },
+        "BOT_NAME": {
+            "description": "Your bot's Name. Default will be RMC-Auto",
+            "value": "RMC-Auto",
+            "required": false
+        },
+        "GROUP_USERNAME": {
+            "description": "Your Group Username without '@'. Default will be RMC-GP",
+            "value": "RMC-GP", 
+            "required": false
+        },
+        "ADMIN_USERNAME": {
+            "description": "Your User Bane without '@'. Default will be N-A-S",
+            "value": "N-A-S", 
+            "required": false
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}

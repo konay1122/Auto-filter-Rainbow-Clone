@@ -25,7 +25,7 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 * -> Add me to your channel as admin with full previlages 
 
 **Bot Commands (Works Only In Groups) :** 
-
+You Can Test Bot in this [Telegram Group](https://www.telegram.dog/joinchat/HPXE9t6rejEzNDll)
 
   * -> `/add chat_id`<br> 
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 

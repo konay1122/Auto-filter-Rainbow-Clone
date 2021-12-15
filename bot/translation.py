@@ -45,7 +45,7 @@ currently working for @{}
             
             👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/allserieslinkchnel_rainbow">©️ Rainbow_CH</a></b>
 """
     
     ABOUT_TEXT = """
@@ -60,11 +60,11 @@ currently working for @{}
 
 ○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone)
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://github.com/konay1122/Auto-filter-Rainbow-Clone)
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_bots](https://t.me/Ts_bots)
+○ ᴄʀᴇᴀᴛᴏʀ : [@N_A_S](https://t.me/nas0055)
 
-**ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
+**ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 15-12-21 Myanmar ᴛɪᴍᴇ 3:40 ᴘᴍ**
 
-**[©ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛ](https://t.me/ts_bots)**
+**[©Rainbow_CH](https://t.me/allserieslinkchnel_rainbow)**
 """
